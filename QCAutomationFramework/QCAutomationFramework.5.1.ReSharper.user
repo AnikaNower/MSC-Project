@@ -1,0 +1,20 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="06B48C9A-13CC-442F-A089-F5936E090F18/f:PresConfigGenerator.cs" caret="388" fromTop="0" />
+      <File id="06B48C9A-13CC-442F-A089-F5936E090F18/f:CreateConfiguration.cs" caret="3953" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

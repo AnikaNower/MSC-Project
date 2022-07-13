@@ -1,0 +1,79 @@
+d:\profiles\mesbahul.islam\my documents\visual studio 2010\Projects\QCAutomationFramework\QCAutomationFramework\bin\Debug\QCAutomationFramework.exe
+d:\profiles\mesbahul.islam\my documents\visual studio 2010\Projects\QCAutomationFramework\QCAutomationFramework\bin\Debug\QCAutomationFramework.pdb
+d:\profiles\mesbahul.islam\my documents\visual studio 2010\Projects\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\profiles\mesbahul.islam\my documents\visual studio 2010\Projects\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.Form1.resources
+d:\profiles\mesbahul.islam\my documents\visual studio 2010\Projects\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.Properties.Resources.resources
+d:\profiles\mesbahul.islam\my documents\visual studio 2010\Projects\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\profiles\mesbahul.islam\my documents\visual studio 2010\Projects\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\profiles\mesbahul.islam\my documents\visual studio 2010\Projects\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.exe
+d:\profiles\mesbahul.islam\my documents\visual studio 2010\Projects\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.pdb
+d:\profiles\mesbahul.islam\my documents\visual studio 2010\Projects\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.csproj.ResolveComReference.cache
+D:\Profiles\mesbahul.islam\my documents\visual studio 2010\Projects\QCAutomationFramework\QCAutomationFramework\bin\Debug\QCAutomationFramework.exe.manifest
+D:\Profiles\mesbahul.islam\my documents\visual studio 2010\Projects\QCAutomationFramework\QCAutomationFramework\bin\Debug\QCAutomationFramework.application
+D:\Profiles\mesbahul.islam\my documents\visual studio 2010\Projects\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.exe.manifest
+D:\Profiles\mesbahul.islam\my documents\visual studio 2010\Projects\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.application
+C:\Documents and Settings\Nahin\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nahin\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.exe
+C:\Documents and Settings\Nahin\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.pdb
+C:\Documents and Settings\Nahin\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\bin\Debug\QCAutomationFramework.exe.manifest
+C:\Documents and Settings\Nahin\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\bin\Debug\QCAutomationFramework.application
+C:\Documents and Settings\Nahin\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\bin\Debug\QCAutomationFramework.exe
+C:\Documents and Settings\Nahin\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\bin\Debug\QCAutomationFramework.pdb
+C:\Documents and Settings\Nahin\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\Interop.Microsoft.Office.Interop.PowerPoint.dll
+C:\Documents and Settings\Nahin\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.csproj.ResolveComReference.cache
+C:\Documents and Settings\Nahin\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.Form1.resources
+C:\Documents and Settings\Nahin\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.Properties.Resources.resources
+C:\Documents and Settings\Nahin\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Nahin\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Nahin\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.exe.manifest
+C:\Documents and Settings\Nahin\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.application
+D:\Profiles\mesbahul.islam\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.csproj.ResolveComReference.cache
+D:\Profiles\mesbahul.islam\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.exe
+D:\Profiles\mesbahul.islam\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.pdb
+D:\Profiles\mesbahul.islam\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\bin\Debug\QCAutomationFramework.exe.manifest
+D:\Profiles\mesbahul.islam\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\bin\Debug\QCAutomationFramework.application
+D:\Profiles\mesbahul.islam\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\bin\Debug\QCAutomationFramework.exe
+D:\Profiles\mesbahul.islam\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\bin\Debug\QCAutomationFramework.pdb
+D:\Profiles\mesbahul.islam\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Profiles\mesbahul.islam\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.Properties.Resources.resources
+D:\Profiles\mesbahul.islam\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Profiles\mesbahul.islam\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Profiles\mesbahul.islam\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.exe.manifest
+D:\Profiles\mesbahul.islam\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.application
+C:\Documents and Settings\Nahin\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.MainWindow.resources
+C:\Documents and Settings\Nahin\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.QC_Form.resources
+D:\Profiles\mesbahul.islam\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\Interop.Microsoft.Office.Interop.PowerPoint.dll
+D:\Profiles\mesbahul.islam\My Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.PresConfigGenerator.resources
+C:\Users\mesbahul.islam\Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\Interop.Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\mesbahul.islam\Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.csproj.ResolveComReference.cache
+C:\Users\mesbahul.islam\Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.exe
+C:\Users\mesbahul.islam\Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.pdb
+C:\Users\mesbahul.islam\Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mesbahul.islam\Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\bin\Debug\QCAutomationFramework.exe
+C:\Users\mesbahul.islam\Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\bin\Debug\QCAutomationFramework.pdb
+C:\Users\mesbahul.islam\Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.Properties.Resources.resources
+C:\Users\mesbahul.islam\Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.PresConfigGenerator.resources
+C:\Users\mesbahul.islam\Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mesbahul.islam\Documents\Visual Studio 2010\Projects\QCAutomationFramework_New\QCAutomationFramework\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\QCFrameWork\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\Interop.Microsoft.Office.Interop.PowerPoint.dll
+D:\QCFrameWork\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.csproj.ResolveComReference.cache
+D:\QCFrameWork\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.exe
+D:\QCFrameWork\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.pdb
+D:\QCFrameWork\QCAutomationFramework\QCAutomationFramework\bin\Debug\QCAutomationFramework.exe
+D:\QCFrameWork\QCAutomationFramework\QCAutomationFramework\bin\Debug\QCAutomationFramework.pdb
+D:\QCFrameWork\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\QCFrameWork\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.Properties.Resources.resources
+D:\QCFrameWork\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.PresConfigGenerator.resources
+D:\QCFrameWork\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\QCFrameWork\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MSC Project\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\Interop.Microsoft.Office.Interop.PowerPoint.dll
+D:\MSC Project\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.csproj.ResolveComReference.cache
+D:\MSC Project\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.exe
+D:\MSC Project\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.pdb
+D:\MSC Project\QCAutomationFramework\QCAutomationFramework\bin\Debug\QCAutomationFramework.exe
+D:\MSC Project\QCAutomationFramework\QCAutomationFramework\bin\Debug\QCAutomationFramework.pdb
+D:\MSC Project\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MSC Project\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.Properties.Resources.resources
+D:\MSC Project\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\QCAutomationFramework.PresConfigGenerator.resources
+D:\MSC Project\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MSC Project\QCAutomationFramework\QCAutomationFramework\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,13 @@
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\bin\Release\CSV_import_export.exe
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\bin\Release\CSV_import_export.pdb
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Release\ResolveAssemblyReference.cache
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Release\CSV_import_export.FileSizeForm.resources
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Release\CSV_import_export.frmImport.resources
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Release\CSV_import_export.frmMain.resources
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Release\CSV_import_export.Properties.Resources.resources
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Release\ResGen.read.1.tlog
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Release\ResGen.write.1.tlog
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Release\CSV_import_export.exe
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Release\CSV_import_export.pdb
+D:\Pendrive backup-15-03-2012\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Release\CSV_import_export.exe
+D:\Pendrive backup-15-03-2012\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Release\CSV_import_export.pdb

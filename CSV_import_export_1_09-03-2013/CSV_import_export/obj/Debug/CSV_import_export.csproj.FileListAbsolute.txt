@@ -1,0 +1,85 @@
+C:\Users\MD.Moynul\Desktop\CSV_import_export\CSV_import_export\bin\Debug\CSV_import_export.exe
+C:\Users\MD.Moynul\Desktop\CSV_import_export\CSV_import_export\bin\Debug\CSV_import_export.pdb
+C:\Users\MD.Moynul\Desktop\CSV_import_export\CSV_import_export\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MD.Moynul\Desktop\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.frmExport.resources
+C:\Users\MD.Moynul\Desktop\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.frmImport.resources
+C:\Users\MD.Moynul\Desktop\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.frmMain.resources
+C:\Users\MD.Moynul\Desktop\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.Properties.Resources.resources
+C:\Users\MD.Moynul\Desktop\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.csproj.GenerateResource.Cache
+C:\Users\MD.Moynul\Desktop\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.exe
+C:\Users\MD.Moynul\Desktop\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.pdb
+E:\Development Project\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.exe
+E:\Development Project\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.pdb
+E:\Development Project\CSV_import_export\CSV_import_export\bin\Debug\CSV_import_export.exe
+E:\Development Project\CSV_import_export\CSV_import_export\bin\Debug\CSV_import_export.pdb
+E:\Development Project\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.csprojResolveAssemblyReference.cache
+E:\Development Project\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.frmImport.resources
+E:\Development Project\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.frmMain.resources
+E:\Development Project\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.Properties.Resources.resources
+E:\Development Project\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.csproj.GenerateResource.Cache
+D:\Pendrive-data\CSV_import_export_1\CSV_import_export\obj\Debug\CSV_import_export.exe
+D:\Pendrive-data\CSV_import_export_1\CSV_import_export\obj\Debug\CSV_import_export.pdb
+D:\Pendrive-data\CSV_import_export_1\CSV_import_export\bin\Debug\CSV_import_export.exe
+D:\Pendrive-data\CSV_import_export_1\CSV_import_export\bin\Debug\CSV_import_export.pdb
+D:\Pendrive-data\CSV_import_export_1\CSV_import_export\obj\Debug\ResolveAssemblyReference.cache
+D:\Pendrive-data\CSV_import_export_1\CSV_import_export\obj\Debug\CSV_import_export.frmImport.resources
+D:\Pendrive-data\CSV_import_export_1\CSV_import_export\obj\Debug\CSV_import_export.frmMain.resources
+D:\Pendrive-data\CSV_import_export_1\CSV_import_export\obj\Debug\CSV_import_export.Properties.Resources.resources
+D:\Pendrive-data\CSV_import_export_1\CSV_import_export\obj\Debug\ResGen.read.1.tlog
+D:\Pendrive-data\CSV_import_export_1\CSV_import_export\obj\Debug\ResGen.write.1.tlog
+E:\Development Project\CSV_import_export_1\CSV_import_export\obj\Debug\CSV_import_export.exe
+E:\Development Project\CSV_import_export_1\CSV_import_export\obj\Debug\CSV_import_export.pdb
+E:\Development Project\CSV_import_export_1\CSV_import_export\obj\Debug\CSV_import_export.frmImport.resources
+E:\Development Project\CSV_import_export_1\CSV_import_export\obj\Debug\CSV_import_export.frmMain.resources
+E:\Development Project\CSV_import_export_1\CSV_import_export\obj\Debug\CSV_import_export.Properties.Resources.resources
+E:\Development Project\CSV_import_export_1\CSV_import_export\obj\Debug\CSV_import_export.csproj.GenerateResource.Cache
+E:\Development Project\CSV_import_export_1\CSV_import_export\bin\Debug\CSV_import_export.exe
+E:\Development Project\CSV_import_export_1\CSV_import_export\bin\Debug\CSV_import_export.pdb
+D:\Assign Task\Project\CSV_import_export_1_06-03-2013\CSV_import_export\obj\Debug\CSV_import_export.exe
+D:\Assign Task\Project\CSV_import_export_1_06-03-2013\CSV_import_export\obj\Debug\CSV_import_export.pdb
+D:\Assign Task\Project\CSV_import_export_1_06-03-2013\CSV_import_export\bin\Debug\CSV_import_export.exe
+D:\Assign Task\Project\CSV_import_export_1_06-03-2013\CSV_import_export\bin\Debug\CSV_import_export.pdb
+D:\Assign Task\Project\CSV_import_export_1_06-03-2013\CSV_import_export\obj\Debug\ResolveAssemblyReference.cache
+D:\Assign Task\Project\CSV_import_export_1_06-03-2013\CSV_import_export\obj\Debug\CSV_import_export.frmImport.resources
+D:\Assign Task\Project\CSV_import_export_1_06-03-2013\CSV_import_export\obj\Debug\CSV_import_export.frmMain.resources
+D:\Assign Task\Project\CSV_import_export_1_06-03-2013\CSV_import_export\obj\Debug\CSV_import_export.Properties.Resources.resources
+D:\Assign Task\Project\CSV_import_export_1_06-03-2013\CSV_import_export\obj\Debug\ResGen.read.1.tlog
+D:\Assign Task\Project\CSV_import_export_1_06-03-2013\CSV_import_export\obj\Debug\ResGen.write.1.tlog
+D:\Assign Task\Project-Qc Tools\CSV_import_export_1_07-03-2013\CSV_import_export\obj\Debug\CSV_import_export.exe
+D:\Assign Task\Project-Qc Tools\CSV_import_export_1_07-03-2013\CSV_import_export\obj\Debug\CSV_import_export.pdb
+D:\Assign Task\Project-Qc Tools\CSV_import_export_1_07-03-2013\CSV_import_export\bin\Debug\CSV_import_export.exe
+D:\Assign Task\Project-Qc Tools\CSV_import_export_1_07-03-2013\CSV_import_export\bin\Debug\CSV_import_export.pdb
+D:\Assign Task\Project-Qc Tools\CSV_import_export_1_07-03-2013\CSV_import_export\obj\Debug\ResolveAssemblyReference.cache
+D:\Assign Task\Project-Qc Tools\CSV_import_export_1_07-03-2013\CSV_import_export\obj\Debug\CSV_import_export.FileSizeForm.resources
+D:\Assign Task\Project-Qc Tools\CSV_import_export_1_07-03-2013\CSV_import_export\obj\Debug\CSV_import_export.frmImport.resources
+D:\Assign Task\Project-Qc Tools\CSV_import_export_1_07-03-2013\CSV_import_export\obj\Debug\CSV_import_export.frmMain.resources
+D:\Assign Task\Project-Qc Tools\CSV_import_export_1_07-03-2013\CSV_import_export\obj\Debug\CSV_import_export.Properties.Resources.resources
+D:\Assign Task\Project-Qc Tools\CSV_import_export_1_07-03-2013\CSV_import_export\obj\Debug\ResGen.read.1.tlog
+D:\Assign Task\Project-Qc Tools\CSV_import_export_1_07-03-2013\CSV_import_export\obj\Debug\ResGen.write.1.tlog
+F:\CSV_import_export_1_07-03-2013\CSV_import_export\bin\Debug\CSV_import_export.exe
+F:\CSV_import_export_1_07-03-2013\CSV_import_export\bin\Debug\CSV_import_export.pdb
+F:\CSV_import_export_1_07-03-2013\CSV_import_export\obj\Debug\ResolveAssemblyReference.cache
+F:\CSV_import_export_1_07-03-2013\CSV_import_export\obj\Debug\CSV_import_export.FileSizeForm.resources
+F:\CSV_import_export_1_07-03-2013\CSV_import_export\obj\Debug\CSV_import_export.frmImport.resources
+F:\CSV_import_export_1_07-03-2013\CSV_import_export\obj\Debug\CSV_import_export.frmMain.resources
+F:\CSV_import_export_1_07-03-2013\CSV_import_export\obj\Debug\CSV_import_export.Properties.Resources.resources
+F:\CSV_import_export_1_07-03-2013\CSV_import_export\obj\Debug\CSV_import_export.csproj.GenerateResource.Cache
+F:\CSV_import_export_1_07-03-2013\CSV_import_export\obj\Debug\CSV_import_export.exe
+F:\CSV_import_export_1_07-03-2013\CSV_import_export\obj\Debug\CSV_import_export.pdb
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Debug\CSV_import_export.exe
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Debug\CSV_import_export.pdb
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\bin\Debug\CSV_import_export.exe
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\bin\Debug\CSV_import_export.pdb
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Debug\ResolveAssemblyReference.cache
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Debug\CSV_import_export.FileSizeForm.resources
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Debug\CSV_import_export.frmImport.resources
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Debug\CSV_import_export.frmMain.resources
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Debug\CSV_import_export.Properties.Resources.resources
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Debug\ResGen.read.1.tlog
+G:\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Debug\ResGen.write.1.tlog
+D:\Pendrive backup-15-03-2012\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Debug\CSV_import_export.exe
+D:\Pendrive backup-15-03-2012\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Debug\CSV_import_export.pdb
+D:\QCFrameWork\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Debug\CSV_import_export.exe
+D:\QCFrameWork\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Debug\CSV_import_export.pdb
+D:\MSC Project\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Debug\CSV_import_export.exe
+D:\MSC Project\CSV_import_export_1_09-03-2013\CSV_import_export\obj\Debug\CSV_import_export.pdb

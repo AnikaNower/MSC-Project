@@ -1,0 +1,2369 @@
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:04:26 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:04:54 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:04:54 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:00 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:00 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:01 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:01 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:01 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 2
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:09 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:10 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:10 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:13 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:14 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:14 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:15 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:15 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 2
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:25 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 35, Shape ID: Artech 3
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:27 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 35, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 1
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:28 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 35, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 4
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:29 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 35, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 1
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:29 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 35, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 3
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:30 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 35, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 5
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:30 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 35, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 4
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:05:31 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 35, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 2
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:16:44 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:13 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:13 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:20 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:20 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:20 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:21 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:21 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 25, Shape ID: Artech 2
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:23 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 26, Shape ID: Artech 5
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:30 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 26, Shape ID: Artech 5
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:30 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 26, Shape ID: Artech 5
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:31 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 26, Shape ID: Artech 5
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:34 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 26, Shape ID: Artech 5
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:35 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 26, Shape ID: Artech 5
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:35 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 26, Shape ID: Artech 5
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:36 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 26, Shape ID: Artech 5
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:36 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 26, Shape ID: Artech 5
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 2
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:47 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 26, Shape ID: Artech 5
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 1
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:48 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 26, Shape ID: Artech 5
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 4
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:49 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 26, Shape ID: Artech 5
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 1
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:50 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 26, Shape ID: Artech 5
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 3
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:50 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 26, Shape ID: Artech 5
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 5
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:51 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 26, Shape ID: Artech 5
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 4
+---------------------------------END---------------------------------
+---------------------------------------------------------------------
+Error At: 4/18/2013 5:17:51 PM; For file: BeneFIX_MTH.ppt
+=====================================================================
+
+Message From Master -->Object is not connected to server (Exception from HRESULT: 0x800401FD (CO_E_OBJNOTCONNECTED)) 
+In Slide: 3, Shape ID: Artech 1
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Value Axis : This object is no longer valid.
+Message From ChartConfig() --> Category Axis : This object is no longer valid.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From ChartDetailsConfig() --> Series Marker Configuration : This property is not valid for the current chart type.
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 1
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 21, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 25, Shape ID: Artech 4
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 25, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Exception from HRESULT: 0x800AC472 
+In Slide: 26, Shape ID: Artech 5
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 29, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 31, Shape ID: Artech 2
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 36, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 1
+Message From ChartConfig() --> Category Axis : Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 3
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 5
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 4
+Message From Master -->Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)) 
+In Slide: 37, Shape ID: Artech 2
+---------------------------------END---------------------------------

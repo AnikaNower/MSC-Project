@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="System.Windows.Forms" />
+  <Module PersistentId="06B48C9A-13CC-442F-A089-F5936E090F18" ModuleId="QCAutomationFramework" />
+</Modules>
